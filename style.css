@@ -14,7 +14,7 @@
     border-radius: 2%;
 }
 
-@media (min-width: 1440px) {
+@media (max-width: 1440px) {
     .stats-card {
         min-width: 80vw;
         height: 60vh;
@@ -34,7 +34,7 @@ header {
     border-top-left-radius: 3%;
 }
 
-@media (min-width: 1440px) {
+@media (max-width: 1440px) {
     header {
         width: 50%;
         height: 100%;
@@ -47,7 +47,7 @@ header {
     }
 }
 
-@media (min-width: 1440px) {
+@media (max-width: 1440px) {
     main {
         height: 100%;
         width: 50%;
@@ -59,7 +59,7 @@ header {
     min-height: 12rem;
 }
 
-@media (min-width: 1440px) {
+@media (max-width: 1440px) {
     .headline {
         width: 100%;
         height: 60%;
@@ -79,7 +79,7 @@ h1 {
     padding-top: .5rem;
 }
 
-@media (min-width: 1440px) {
+@media (max-width: 1440px) {
     h1 {
         height: 50%;
         font-size: 2rem;
@@ -104,7 +104,7 @@ span {
     margin-right: 1.5rem;
 }
 
-@media (min-width: 1440px) {
+@media (max-width: 1440px) {
     .headline p {
         font-size: .85rem;
         text-align: left;
@@ -125,7 +125,7 @@ span {
     margin-top: -.7rem;
 }
 
-@media (min-width: 1440px) {
+@media (max-width: 1440px) {
     .referencies {
         position: absolute;
         top: 60%;
@@ -143,7 +143,7 @@ span {
     margin: .5rem;
 }
 
-@media (min-width: 1440px) {
+@media (max-width: 1440px) {
     .referencies div {
         margin: 0 auto;
         position: relative;
@@ -172,7 +172,7 @@ span {
     margin-top: .45rem;
 }
 
-@media (min-width: 1440px) {
+@media (max-width: 1440px) {
     .referencies p {
         font-size: .6rem;
         letter-spacing: .075rem;
