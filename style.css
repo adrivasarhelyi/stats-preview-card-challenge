@@ -41,7 +41,7 @@ header {
         position: absolute;
         background-size: cover;
         left: 50%;
-        background-image: url(https://i.imgur.com/6dBaFEB.jpg);
+        background: linear-gradient(hsl(277, 64%, 61%), hsl(277, 64%, 61%)), url(https://i.imgur.com/6dBaFEB.jpg) no-repeat center center/cover;
         border-bottom-right-radius: 3%;
         border-top-left-radius: 0;
     }
